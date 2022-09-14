@@ -15,7 +15,7 @@
       <a href="#objetivo">Objetivo</a>
     </li>
     <li>
-      <a href="#começando">Começando</a>
+      <a href="#requisitos">Requisitos</a>
       <ul>
         <li>Dependências</li>
         <li>Utilização</li>
@@ -33,7 +33,7 @@
 > Esse teste prático tem como objetivo verificar skills de programação em Python considerando o escopo de projeto que será desenvolvido ao longo do projeto PIPE I.
 <br />
 
-## Começando
+## Requisitos
 > O teste foi implementado utilizando-se a versão 3.10.7 do Python.
 
 ### Dependencias
